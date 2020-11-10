@@ -1,5 +1,5 @@
 
-# ขั้นตอนการ Build Project
+# ขั้นตอน Build Project
 ```sh
 
 $ docker build -t myproject .
